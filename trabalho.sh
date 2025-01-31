@@ -1,5 +1,4 @@
 #!/bin/bash
-#!/bin/bash
 
 egrep -o '[01]*' bruxarias.txt > 1a.txt
 
